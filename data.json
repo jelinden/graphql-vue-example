@@ -1,0 +1,45 @@
+[
+  {
+    "id": "1",
+    "name": "Darth",
+    "surname": "Vader"
+  },
+  {
+    "id": "2",
+    "name": "Obi-Wan",
+    "surname": "Kenobi"
+  },
+  {
+    "id": "3",
+    "name": "Luke",
+    "surname": "Skywalker"
+  },
+  {
+    "id": "4",
+    "name": "Han",
+    "surname": "Solo"
+  },
+  {
+    "id": "5",
+    "name": "Chewbacca"
+  },
+  {
+    "id": "6",
+    "name": "Yoda"
+  },
+  {
+    "id": "7",
+    "name": "Lando",
+    "surname": "Calrissian"
+  },
+  {
+    "id": "8",
+    "name": "Boba",
+    "surname": "Fett"
+  },
+  {
+    "id": "9",
+    "name": "Leia",
+    "surname": "Organa"
+  }
+]
