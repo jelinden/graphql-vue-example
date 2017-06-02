@@ -19,8 +19,7 @@ export default {
     return {
       msg: 'Star Wars persons',
       person: {person: {id: '', name: '', surname: ''}},
-      persons: '',
-      personName: ''
+      persons: ''
     }
   },
   mounted () {
